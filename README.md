@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Active">
+        <img src="https://img.shields.io/badge/Status-Beta-brightorange?style=for-the-badge" alt="Active">
     </a>
   </p>
 </p>
