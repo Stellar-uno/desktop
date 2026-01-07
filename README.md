@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a28ce1/icons/Windows-Dark.svg" width="100" alt="Windows Logo">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="24" height="24"  style="opacity:1;"><g fill="none"><g clip-path="url(#SVG9PUMWdIu)"><path fill="#242938" d="M196 0H60C26.863 0 0 26.863 0 60v136c0 33.137 26.863 60 60 60h136c33.137 0 60-26.863 60-60V60c0-33.137-26.863-60-60-60"/><path fill="#00ADEF" d="m40 65.663l70.968-9.665l.032 68.455l-70.934.404zm70.935 66.677l.055 68.515l-70.934-9.753l-.004-59.221zm8.602-77.607L213.636 41v82.582l-94.099.748zm94.121 78.251l-.022 82.211l-94.099-13.281l-.131-69.083z"/></g><defs><clipPath id="SVG9PUMWdIu"><path fill="#fff" d="M0 0h256v256H0z"/></clipPath></defs></g></svg>
   <h1 align="center">🚀 Stellar Desktop</h1>
   <p align="center">
     <strong>Умный помощник для управления серверами и ИИ на Windows</strong>
